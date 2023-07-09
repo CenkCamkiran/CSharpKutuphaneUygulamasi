@@ -13,5 +13,3 @@
 <img src="./Rapor/Rapor-5.png"/>
 
 <img src="./Rapor/Rapor-6.png"/>
-
-<!---->
